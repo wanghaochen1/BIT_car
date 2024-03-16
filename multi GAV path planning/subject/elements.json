@@ -1,0 +1,48 @@
+[
+    {
+        "types": ["static.prop.electronzone"],
+        "count":1,
+        "points": [
+            {
+                "position": "1056.2, -350.2, -0.5",
+                "rotation": "0,0,0"
+            }
+        ]
+    },
+    {
+        "types": ["static.prop.minezone"],
+        "count":1,
+        "points": [
+            {
+                "position": "-365.7, -384.4, -0.7",
+                "rotation": "0,0,0"
+            }
+        ]
+    },
+    {
+        "types": ["static.prop.noflyzone"],
+        "count":5,
+        "points": [
+            {
+                "position": "-931.5, -251.7, 10",
+                "rotation": "0,0,0"
+            },
+            {
+                "position": "417.3, -459.6, 10",
+                "rotation": "0,0,0"
+            },
+            {
+                "position": "455.1, -550.7, 10",
+                "rotation": "0,0,0"
+            },
+            {
+                "position": "1925.2, -241.9, 10",
+                "rotation": "0,0,0"
+            },
+            {
+                "position": "2030, -190.4, 10",
+                "rotation": "0,0,0"
+            }
+        ]
+    }
+]

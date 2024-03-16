@@ -1,0 +1,59 @@
+[
+    {
+        "type": "vehicle.imv.rb",
+        "vehicles": [
+            {
+                "position": "-1860.6, -521.4, 2.1",
+                "rotation": "0,0,0",
+                "teamId": "1",
+                "detectRadius": 10000
+            },
+            {
+                "position": "-1860.6, -516.7, 2.1",
+                "rotation": "0,0,0",
+                "teamId": "1",
+                "detectRadius": 10000
+            },
+            {
+                "position": "-1860.6, -512.2, 2.1",
+                "rotation": "0,0,0",
+                "teamId": "1",
+                "detectRadius": 10000
+            }
+        ]
+    },
+    {
+        "type": "vehicle.auto.minedestruct",
+        "vehicles": [
+            {
+                "position": "-764, -245, 2.1",
+                "rotation": "0,0,0",
+                "teamId": "1",
+                "detectRadius": 10000
+            }
+        ]
+    },
+    {
+        "type": "vehicle.hrt.m10",
+        "vehicles": [
+            {
+                "position": "-1875.2, -521.9, 10",
+                "rotation": "0,0,0",
+                "teamId": "1",
+                "detectRadius": 30000
+            },
+            {
+                "position": "-1875.2, -519.4, 10",
+                "rotation": "0,0,0",
+                "teamId": "1",
+                "detectRadius": 30000
+            },
+            {
+                "position": "-1875.2, -516.5, 10",
+                "rotation": "0,0,0",
+                "teamId": "1",
+                "detectRadius": 30000
+            }
+        ]
+    }
+]

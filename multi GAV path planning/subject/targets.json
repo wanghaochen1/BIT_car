@@ -1,0 +1,124 @@
+[
+    {
+        "types": ["dynamic.prop.buildingsoldier"],
+        "count":5,
+        "points": [
+            {
+                "position": "1267.90, -653.80, 2.69",
+                "rotation": "0,0,0"
+            },{
+                "position": "1629.50, -654.70, 2.69",
+                "rotation": "0,0,0"
+            },{
+                "position": "2179.00, -654.40, 2.69",
+                "rotation": "0,0,0"
+            },{
+                "position": "1760.00, -392.40, 2.69",
+                "rotation": "0,0,0"
+            },{
+                "position": "1237.40, -115.20, 2.69",
+                "rotation": "0,0,0"
+            },{
+                "position": "1660.20, -115.20, 2.69",
+                "rotation": "0,0,0"
+            },{
+                "position": "1756.10, -57.80, 2.69",
+                "rotation": "0,0,0"
+            }
+        ]
+    },
+    {
+        "types": ["vehicle.ifv.stryker"],
+        "count":5,
+        "points": [
+            {
+                "position": "1688.70, -657.90, 2.40",
+                "rotation": "0,0,0"
+            },{
+                "position": "1747.60, -380.20, 2.40",
+                "rotation": "0,180,0"
+            },{
+                "position": "1702.00, -106.10, 2.40",
+                "rotation": "0,0,0"
+            },{
+                "position": "1749.90, 206.20, 2.40",
+                "rotation": "0,180,0"
+            },{
+                "position": "1991.10, 250.10, 2.40",
+                "rotation": "0,180,0"
+            },{
+                "position": "1760.30, -44.40, 2.40",
+                "rotation": "0,180,0"
+            },{
+                "position": "1697.60, -309.70, 2.40",
+                "rotation": "0,0,0"
+            },{
+                "position": "1755.50, -603.30, 2.40",
+                "rotation": "0,0,0"
+            }
+        ]
+    },
+    {
+        "types": ["dynamic.prop.barricade"],
+        "count":5,
+        "points": [
+            {
+                "position": "1535.50, -889.30, 0.60",
+                "rotation": "0,0,0",
+                "flowers":[{
+                    "type":"dynamic.prop.soldier",
+                    "position": "1.2, 7, 1.32",
+                    "rotation": "0,90,0"
+                }]
+            },{
+                "position": "1727.70, -741.10, 0.60",
+                "rotation": "0,90,0",
+                "flowers":[{
+                    "type":"dynamic.prop.soldier",
+                    "position": "-7, 1, 1.1",
+                    "rotation": "0,90,0"
+                }]
+            },{
+                "position": "1985.80, -626.10, 0.60",
+                "rotation": "0,0,0",
+                "flowers":[{
+                    "type":"dynamic.prop.soldier",
+                    "position": "1, 10, 1.5",
+                    "rotation": "0,90,0"
+                }]
+            },{
+                "position": "2211.50, -492.70, 0.60",
+                "rotation": "0,90,0",
+                "flowers":[{
+                    "type":"dynamic.prop.soldier",
+                    "position": "-7, 1, 1.5",
+                    "rotation": "0,90,0"
+                }]
+            },{
+                "position": "1831.10, -362.90, 0.60",
+                "rotation": "0,0,0",
+                "flowers":[{
+                    "type":"dynamic.prop.soldier",
+                    "position": "1, 7, 1.5",
+                    "rotation": "0,90,0"
+                }]
+            },{
+                "position": "1340.20, -362.90, 0.60",
+                "rotation": "0,0,0",
+                "flowers":[{
+                    "type":"dynamic.prop.soldier",
+                    "position": "1, 7.5, 1.5",
+                    "rotation": "0,90,0"
+                }]
+            },{
+                "position": "1528.30, -82.20, 0.60",
+                "rotation": "0,0,0",
+                "flowers":[{
+                    "type":"dynamic.prop.soldier",
+                    "position": "1, 7, 1.5",
+                    "rotation": "0,90,0"
+                }]
+            }
+        ]
+    }
+]
